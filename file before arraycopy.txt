@@ -1,0 +1,105 @@
+Node ID: 1
+Parent Node ID: 0
+Node Level: 1
+Node Next Move: X
+Parent Node Value: zzzzzzzzz
+Node Value: Xzzzzzzzz
+
+Node ID: 2
+Parent Node ID: 1
+Node Level: 2
+Node Next Move: O
+Parent Node Value: Xzzzzzzzz
+Node Value: XOzzzzzzz
+
+Node ID: 3
+Parent Node ID: 2
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XOzzzzzzz
+Node Value: XOXzzzzzz
+
+Node ID: 4
+Parent Node ID: 1
+Node Level: 2
+Node Next Move: O
+Parent Node Value: XOzzzzzzz
+Node Value: XOOzzzzzz
+
+Node ID: 5
+Parent Node ID: 4
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XOOzzzzzz
+Node Value: XOOXzzzzz
+
+Node ID: 6
+Parent Node ID: 0
+Node Level: 1
+Node Next Move: X
+Parent Node Value: Xzzzzzzzz
+Node Value: XXzzzzzzz
+
+Node ID: 7
+Parent Node ID: 6
+Node Level: 2
+Node Next Move: O
+Parent Node Value: XXzzzzzzz
+Node Value: XXOzzzzzz
+
+Node ID: 8
+Parent Node ID: 7
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XXOzzzzzz
+Node Value: XXOXzzzzz
+
+Node ID: 9
+Parent Node ID: 6
+Node Level: 2
+Node Next Move: O
+Parent Node Value: XXOzzzzzz
+Node Value: XXOOzzzzz
+
+Node ID: 10
+Parent Node ID: 9
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XXOOzzzzz
+Node Value: XXOOXzzzz
+
+Node ID: 11
+Parent Node ID: 0
+Node Level: 1
+Node Next Move: X
+Parent Node Value: XXzzzzzzz
+Node Value: XXXzzzzzz
+
+Node ID: 12
+Parent Node ID: 11
+Node Level: 2
+Node Next Move: O
+Parent Node Value: XXXzzzzzz
+Node Value: XXXOzzzzz
+
+Node ID: 13
+Parent Node ID: 12
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XXXOzzzzz
+Node Value: XXXOXzzzz
+
+Node ID: 14
+Parent Node ID: 11
+Node Level: 2
+Node Next Move: O
+Parent Node Value: XXXOzzzzz
+Node Value: XXXOOzzzz
+
+Node ID: 15
+Parent Node ID: 14
+Node Level: 3
+Node Next Move: X
+Parent Node Value: XXXOOzzzz
+Node Value: XXXOOXzzz
+
